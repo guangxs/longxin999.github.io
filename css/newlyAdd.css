@@ -1,12 +1,12 @@
 .xuanzhuan{
     transition: all .4s;
 }
-.fangda-div{
-    transition: all .4s;
+.fangda{
+    transition: all .3s;
 }
 .xuanzhuan:hover{
     transform: rotate(360deg);
 }
-.fangda-div:hover{
+.fangda:hover{
     transform: scale(1.6);
 }
